@@ -20,8 +20,6 @@ Each tool includes a concise overview, positioning context, and links to compare
 
 ## ETL / ELT Tools
 
----
-
 ### Integrate.io
 
 <p>
@@ -31,7 +29,7 @@ Each tool includes a concise overview, positioning context, and links to compare
 <p><strong>Categories:</strong> 🔌 ELT & Data Sync Platforms · 🧱 Transformations</p>
 
 <p>
-<a href="https://www.integrate.io/">website</a> | | <a href="https://www.integrate.io/integrations">integrations</a> | <a href="https://www.youtube.com/@Integrateio/videos/">youtube</a> | <a href="https://www.integrate.io/support/#documentation">docs</a>
+<a href="https://www.integrate.io/">website</a> | <a href="https://www.integrate.io/integrations">integrations</a> | <a href="https://www.youtube.com/@Integrateio/videos/">youtube</a> | <a href="https://www.integrate.io/support/#documentation">docs</a>
 </p>
 
 ---
